@@ -1,0 +1,7 @@
+com\bjpowernode\p2p\web\IndexController.class
+com\bjpowernode\p2p\interceptor\UserInterceptor.class
+com\bjpowernode\p2p\web\UserController.class
+com\bjpowernode\p2p\web\RechargeRecordController.class
+com\bjpowernode\p2p\web\JCaptchaController.class
+com\bjpowernode\p2p\web\BidInfoController.class
+com\bjpowernode\p2p\web\LoanInfoController.class

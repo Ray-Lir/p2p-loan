@@ -1,0 +1,15 @@
+com\bjpowernode\p2p\model\loan\LoanInfo.class
+com\bjpowernode\p2p\model\loan\RechargeRecord.class
+com\bjpowernode\p2p\model\user\FinanceAccount.class
+com\bjpowernode\p2p\model\vo\PaginationVO.class
+com\bjpowernode\p2p\service\loan\IncomeRecordService.class
+com\bjpowernode\p2p\model\vo\ResultObject.class
+com\bjpowernode\p2p\service\loan\BidInfoService.class
+com\bjpowernode\p2p\service\loan\RedisService.class
+com\bjpowernode\p2p\service\user\UserService.class
+com\bjpowernode\p2p\model\loan\IncomeRecord.class
+com\bjpowernode\p2p\service\loan\LoanInfoService.class
+com\bjpowernode\p2p\model\loan\BidInfo.class
+com\bjpowernode\p2p\service\loan\RechargeRecordService.class
+com\bjpowernode\p2p\model\user\User.class
+com\bjpowernode\p2p\service\user\FinanceAccountService.class

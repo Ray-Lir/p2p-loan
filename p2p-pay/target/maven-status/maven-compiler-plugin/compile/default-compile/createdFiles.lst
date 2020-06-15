@@ -1,0 +1,3 @@
+com\bjpowernode\pay\web\AlipayController.class
+com\bjpowernode\pay\web\WxpayController.class
+com\bjpowernode\pay\config\PayConfig.class
